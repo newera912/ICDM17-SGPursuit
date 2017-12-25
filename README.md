@@ -68,7 +68,7 @@ focusCOTest3VaryClusterSize(). Note*: you can download the original code from gi
 https://github.com/phanein/focused-clustering. 
 
 4. GAMer:
-Thsi methods provided by the authors in page: "http://dme.rwth-aachen.de/en/gamer". 
+This method provided by the authors in page: "http://dme.rwth-aachen.de/en/gamer". 
 They provided a executable jar file. You can find our test code in 
 "com.apdm.baselines.GAMer". 
 4.1 Simualtion dataset experiment

@@ -5,7 +5,7 @@
 
 ------------------------------------------ General Information ----------------------------------------
 This section contains the general information about our code and dataset. 
-This folder contains our proposed algorithm, SGPursuit, which is under review of KDD-2017. 
+This folder contains our proposed algorithm, SGPursuit, which is under review of ICDM-2017. 
 
 In this folder, there are  three sub-folders:
 1. code: contains our SGPursuit algorithm and the baseline methods used in our paper.

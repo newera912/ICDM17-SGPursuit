@@ -88,4 +88,4 @@ To run GAMer realdata test code use maven:
 -------------------------------------------------------------------------------------------------------
 In case that you are interested in our data preprocessing. The folder dataProcessing contains the 
 raw data and the pre-processing code. The pre-processing code is not documented very well. However,
-you can email me (bzhou6@albany.edu/aalimu@albany.edu) if you have any questions.
+you can email me (bzhou6@albany.edu / aalimu@albany.edu ) if you have any questions.

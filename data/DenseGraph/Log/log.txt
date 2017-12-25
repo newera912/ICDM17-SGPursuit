@@ -1,0 +1,1970 @@
+dblp_APDM.txt
+<<<<<<< HEAD
+dblp_APDM.txt
+Top5/5 2.2785714285714285 8.2 12.330419677105338
+Top10/10 2.2648484848484847 8.5 21.551385264967998
+Top15/15 2.3588888888888895 8.2 19.10136351207721
+Top20/20 2.504646464646465 8.3 20.92454614106031
+Total running time: 72.95551997
+genes_APDM.txt
+Top5/5 1.7236363636363634 5.8 0.3459488804476759
+Top10/10 1.8755555555555556 4.8 0.316962400378766
+Top15/15 1.4751851851851854 3.4 0.3559608010591319
+Top20/19 1.3859193438140807 3.4210526315789473 0.418731625486814
+Total running time: 999.706138342
+imdb_APDM.txt
+Top5/5 1.9969696969696968 10.2 20.792245649298728
+Top10/10 2.009292929292929 10.0 14.783785406692004
+Top15/15 1.9745454545454544 9.8 16.079557313168078
+Top20/20 1.896269841269841 9.2 20.135388246615193
+Total running time: 196.941506817
+dfb_APDM.txt
+Top5/4 2.95 8.5 17.368694638556093
+Top10/7 2.905050505050505 8.714285714285714 15.586461345114119
+Top15/11 3.035320739866194 7.909090909090909 17.844368304971542
+Top20/14 2.719954648526077 8.071428571428571 12.527005315503517
+Total running time: 7.652793892
+arxivSmall_APDM.txt
+Top5/5 2.4793650793650794 7.2 22.461241543419124
+Top10/10 2.098347763347763 8.2 23.985083347939433
+Top15/15 2.243434343434344 9.733333333333333 26.140678359778907
+Top20/20 2.103636363636364 7.65 22.28462277173201
+Total running time: 99.688242981
+dblp_APDM.txt
+dblp_APDM.txt
+Top5/5 2.2785714285714285 8.2 12.330419677105338
+Top10/10 2.6151659451659457 8.5 17.50502329969553
+Top15/15 2.354680134680135 9.333333333333334 18.638385360871666
+Top20/20 2.3955591630591626 8.5 17.580062859887512
+Total running time: 73.602203606
+genes_APDM.txt
+dblp_APDM.txt
+Top5/5 2.2928571428571427 7.2 11.593684344697419
+Top5/4 1.6944444444444444 4.25 0.3347412271109027
+Top10/10 2.2192424242424242 8.3 16.23289645579052
+Top15/15 2.2503799903799906 8.8 19.187571688958094
+Top20/20 2.139476911976912 8.8 19.669980960808374
+Total running time: 92.803339085
+genes_APDM.txt
+dblp_APDM.txt
+Top5/5 2.0785714285714283 6.6 12.395858434271721
+dblp_APDM.txt
+Top5/5 2.40109155550332 12.8 14.292183691489365
+Top10/10 2.1949093879976234 13.2 19.040364820492528
+Top15/15 2.3063227948522065 14.133333333333333 21.349163929029213
+Top20/20 2.4502351651616356 14.7 21.57171882698072
+Total running time: 93.635678956
+dblp_APDM.txt
+Top5/5 2.40109155550332 12.8 14.292183691489365
+Top10/10 2.4150829562594267 13.0 20.65888347182446
+dblp_APDM.txt
+Top5/5 2.23 7.2 11.67
+Top10/10 2.7 8.9 10.25
+Top15/15 2.2 8.93 12.86
+Top20/20 2.29 9.3 14.6
+Total running time: 83.760010131
+dblp_APDM.txt
+Top5/5 2.25 8.2 14.14
+dblp_APDM.txt
+Top5/5 2.25 8.2 14.14
+Top10/10 2.46 8.0 19.73
+Top15/15 2.31 8.47 21.05
+Top20/20 2.14 8.9 21.6
+Total running time: 70.036567718
+dblp_APDM.txt
+Top5/5 2.48 22.8 21.97
+dblp_APDM.txt
+Top5/5 2.64 35.4 22.89
+dblp_APDM.txt
+Top5/5 2.51 23.8 19.74
+Top10/10 2.54 23.7 21.29
+Top15/15 2.4 23.13 23.33
+Top20/20 2.5 24.6 24.61
+Total running time: 106.167813392
+dblp_APDM.txt
+Top5/5 2.61 26.4 17.2
+dblp_APDM.txt
+Top5/5 2.19 5.8 11.31
+Top10/10 2.14 8.5 12.92
+Top15/15 2.37 8.47 12.15
+Top20/20 2.24 8.7 16.29
+Total running time: 92.506948288
+dblp_APDM.txt
+Top5/5 2.24 6.8 11.1
+Top10/10 2.27 9.1 13.3
+Top15/15 2.11 8.53 16.88
+Top20/20 2.23 9.1 16.24
+Total running time: 85.858053175
+dblp_APDM.txt
+Top5/5 2.16 8.4 37.45
+dblp_APDM.txt
+Top5/5 2.5 8.4 41.35
+Top10/10 2.15 8.2 38.56
+Top15/15 2.37 9.87 43.02
+Top20/20 2.42 8.55 45.36
+Total running time: 70.854278968
+dblp_APDM.txt
+Top1/1 2.0 9.0 42.04
+Top5/5 2.4 8.6 38.82
+Top10/10 2.49 9.6 42.85
+dblp_APDM.txt
+dblp_APDM.txt
+Top1/1 2.0 9.0 42.04
+Top5/5 2.38 8.2 41.51
+dblp_APDM.txt
+Top1/1 2.0 9.0 42.04
+Top5/5 2.01 8.6 34.3
+Top10/10 2.47 8.2 38.95
+dblp_APDM.txt
+Top1/1 2.5 12.0 14.68
+Top5/5 2.21 8.0 17.74
+Top10/10 2.17 7.6 16.24
+Top15/15 2.7 8.07 18.4
+Top20/20 2.24 8.65 18.52
+Total running time: 76.273897609
+dblp_APDM.txt
+Top1/1 2.5 12.0 11.86
+Top5/5 2.26 7.8 14.96
+Top10/10 2.04 7.0 16.78
+dblp_APDM.txt
+Top5/5 2.25 8.6 12.42
+Top10/10 2.17 9.3 18.79
+Top15/15 2.29 9.53 20.79
+Top20/20 2.4 9.25 21.92
+Total running time: 36.61302146
+dblp_APDM.txt
+Top5/5 2.29 9.0 15.93
+Top10/10 2.69 8.9 18.32
+Top15/15 2.49 9.4 21.89
+Top20/20 2.49 9.05 21.58
+Total running time: 31.643274696
+dblp_APDM.txt
+Top5/5 2.28 8.2 12.9
+Top10/10 2.23 9.5 17.09
+Top15/15 2.26 9.53 18.67
+Top20/20 2.19 8.85 18.8
+Total running time: 31.096541108
+dblp_APDM.txt
+dblp_APDM.txt
+Top5/5 2.28 8.2 12.33
+Top10/10 2.29 8.1 14.63
+Top15/15 2.55 8.27 16.47
+Top20/20 2.67 8.55 17.73
+Total running time: 29.182063359
+dblp_APDM.txt
+Top5/5 2.06 7.6 13.13
+Top10/10 2.11 8.2 14.03
+Top15/15 2.31 8.47 15.47
+Top20/20 2.19 8.5 16.67
+Total running time: 33.183260612
+dblp_APDM.txt
+Top5/5 2.28 8.2 12.9
+Top10/10 2.51 9.1 19.19
+Top15/15 2.43 9.53 20.53
+Top20/20 2.38 9.9 21.78
+Total running time: 37.977402801
+dblp_APDM.txt
+Top5/5 2.28 8.2 12.33
+Top10/10 2.11 7.4 16.46
+Top15/15 2.18 8.6 18.12
+Top20/20 2.18 8.35 18.65
+Total running time: 32.992794604
+dblp_APDM.txt
+Top5/5 2.33 8.4 12.23
+Top10/10 2.27 8.9 15.8
+Top15/15 2.28 9.07 19.6
+Top20/20 2.36 9.25 21.26
+Total running time: 29.342850023
+dblp_APDM.txt
+Top5/5 2.25 8.2 14.14
+Top10/10 2.36 8.8 18.36
+Top15/15 2.23 8.8 19.01
+Top20/20 2.23 8.8 19.71
+Total running time: 29.623996425
+dblp_APDM.txt
+Top5/5 2.64 10.0 19.82
+Top10/10 2.56 8.5 20.04
+Top15/15 2.32 8.33 22.34
+Top20/20 2.21 8.4 23.53
+Total running time: 31.271045103
+dblp_APDM.txt
+Top5/5 2.74 9.8 27.94
+Top10/10 2.34 9.0 25.24
+Top15/15 2.41 8.4 22.64
+Top20/20 2.29 8.4 21.37
+Total running time: 32.605601369
+dblp_APDM.txt
+Top5/5 2.0 9.6 22.67
+Top10/10 2.05 9.3 22.77
+Top15/15 2.06 9.2 25.62
+Top20/20 2.11 9.4 23.62
+Total running time: 33.93178757
+dblp_APDM.txt
+Top5/5 2.37 9.2 19.49
+Top10/10 2.4 9.1 19.22
+Top15/15 2.35 9.13 19.55
+Top20/20 2.27 9.15 20.33
+Total running time: 29.591453248
+dblp_APDM.txt
+Top5/5 2.44 7.8 3.76
+Top10/10 2.29 7.1 3.47
+Top15/15 2.9 7.27 5.95
+Top20/20 2.97 7.65 5.91
+Total running time: 20.983046305
+dblp_APDM.txt
+Top5/5 2.65 8.0 19.9
+Top10/10 2.34 7.6 17.82
+Top15/15 2.47 8.2 20.1
+Top20/20 2.34 8.4 19.99
+Total running time: 28.775366966
+dblp_APDM.txt
+dblp_APDM.txt
+Top5/5 2.73 9.8 28.09
+Top10/10 2.26 8.6 22.33
+Top15/15 2.29 8.6 22.42
+Top20/20 2.21 8.05 21.2
+Total running time: 29.803819188
+dblp_APDM.txt
+Top5/5 2.83 9.0 22.21
+Top10/10 2.42 8.5 20.9
+Top15/15 2.3 8.4 20.69
+Top20/20 2.54 8.5 21.77
+Total running time: 29.751873672
+imdb_APDM.txt
+Top5/5 1.87 9.4 20.38
+Top10/10 1.88 9.9 20.27
+Top15/15 1.91 10.07 19.55
+Top20/20 1.92 10.2 19.01
+Total running time: 75.436019286
+imdb_APDM.txt
+Top5/5 2.03 10.6 19.62
+Top10/10 1.94 9.8 19.99
+Top15/15 1.98 9.93 19.89
+Top20/20 2.0 9.6 19.94
+Total running time: 81.257405576
+dblp_APDM.txt
+Top5/5 3.53 5.8 13.14
+Top10/10 2.82 6.8 15.4
+Top15/15 2.65 7.53 16.88
+Top20/20 2.47 7.2 16.18
+Total running time: 22.322102431
+dblp_APDM.txt
+Top5/5 3.57 7.4 16.54
+Top10/10 2.97 7.2 14.02
+Top15/15 2.71 7.93 12.89
+Top20/20 2.58 8.1 13.15
+Total running time: 21.811762149
+dblp_APDM.txt
+Top5/5 3.0 8.4 22.51
+Top10/10 2.53 9.0 24.84
+Top15/15 2.4 8.0 24.14
+Top20/20 2.39 7.55 22.82
+Total running time: 36.919593537
+genes_APDM.txt
+Top5/5 1.68 8.8 0.63
+Top10/10 1.41 5.8 0.56
+Top15/15 1.43 5.87 0.51
+Top20/20 1.48 5.7 0.55
+Total running time: 265.479776789
+imdb_APDM.txt
+Top5/5 1.85 8.4 15.95
+Top10/10 1.87 8.8 18.09
+Top15/15 1.89 9.07 18.72
+Top20/20 1.88 9.15 17.77
+Total running time: 97.299065371
+dfb_APDM.txt
+Top5/1 2.8 10.0 21.07
+Top10/4 2.51 7.25 18.71
+Top15/8 3.49 8.88 22.3
+Top20/10 3.4 9.2 22.69
+Total running time: 2.660642224
+arxivSmall_APDM.txt
+Top5/5 1.81 7.8 19.52
+Top10/10 1.84 8.0 28.36
+Top15/15 1.9 8.2 30.23
+Top20/20 1.94 8.4 30.61
+Total running time: 37.685057661
+dblp_APDM.txt
+genes_APDM.txt
+Top5/5 1.47 2.6 0.65
+Top10/10 2.01 5.0 0.6
+Top15/15 2.18 5.27 0.52
+Top20/20 2.06 4.7 0.48
+Total running time: 392.050750605
+genes_APDM.txt
+Top5/5 1.47 2.6 0.43
+Top10/10 2.01 5.0 0.49
+Top15/15 2.2 5.33 0.44
+Top20/20 2.17 5.3 0.41
+Total running time: 380.061158583
+genes_APDM.txt
+Top5/5 2.31 31.2 1.61
+Top10/10 1.97 22.1 1.22
+Top15/14 1.88 18.5 1.02
+Top20/19 1.7 15.68 0.87
+Total running time: 595.500148467
+genes_APDM.txt
+Top5/4 1.88 10.25 0.45
+Top10/8 1.92 18.13 0.4
+Top15/13 2.01 22.08 0.61
+Top20/17 2.04 22.0 0.83
+Total running time: 914.2146582
+genes_APDM.txt
+dfb_APDM.txt
+Top5/5 5.66 21.2 20.17
+Top10/10 5.22 21.5 18.64
+Top15/15 5.11 20.73 17.51
+Top20/20 5.3 20.5 17.89
+Total running time: 0.989855711
+dfb_APDM.txt
+Top5/5 2.44 8.8 10.77
+Top10/8 2.39 8.75 12.08
+Top15/13 2.33 8.62 11.83
+Top20/17 2.41 8.65 13.54
+Total running time: 4.504885216
+dfb_APDM.txt
+Top5/4 4.15 11.0 17.91
+Top10/8 3.23 9.13 15.34
+Top15/13 2.83 8.46 14.01
+Top20/16 2.63 7.69 13.62
+Total running time: 3.634927718
+dfb_APDM.txt
+Top5/3 3.88 10.0 9.31
+Top10/8 3.53 10.0 11.12
+Top15/9 3.53 9.78 12.18
+Top20/12 3.56 9.42 10.2
+Total running time: 4.535060849
+dfb_APDM.txt
+Top5/5 3.45 9.0 11.99
+Top10/9 2.85 7.44 12.25
+Top15/13 3.13 8.46 13.0
+Top20/17 3.11 8.53 13.52
+Total running time: 4.130529913
+dfb_APDM.txt
+Top5/1 2.0 4.0 11.33
+Top10/4 2.93 8.25 12.83
+Top15/9 3.15 9.56 15.09
+Top20/14 3.0 9.86 13.55
+Total running time: 4.825738345
+dfb_APDM.txt
+Top5/2 3.23 12.0 7.26
+Top10/5 2.92 10.4 7.8
+Top15/10 2.98 9.8 8.86
+Top20/14 2.82 9.36 9.22
+Total running time: 4.44553264
+dfb_APDM.txt
+Top5/1 3.45 11.0 8.59
+Top10/6 3.41 10.67 11.38
+Top15/11 3.48 10.36 11.51
+Top20/16 3.36 9.81 12.23
+Total running time: 3.521967694
+dfb_APDM.txt
+Top5/2 3.62 9.5 13.42
+Top10/6 3.36 9.67 19.3
+Top15/9 3.23 9.11 20.31
+Top20/12 3.19 9.33 18.25
+Total running time: 4.188651127
+dfb_APDM.txt
+Top5/5 2.98 7.2 14.59
+Top10/7 2.82 7.86 16.1
+Top15/11 2.74 8.55 16.42
+Top20/16 2.67 8.31 16.39
+Total running time: 4.409599773
+dfb_APDM.txt
+dfb_APDM.txt
+Top5/4 3.11 9.25 12.36
+Top10/9 3.61 9.33 13.68
+Top15/13 3.46 9.77 15.11
+Top20/17 3.28 8.94 14.59
+Total running time: 4.156722886
+dfb_APDM.txt
+Top5/5 3.39 9.2 13.03
+Top10/8 3.22 9.0 12.92
+Top15/11 3.0 9.09 15.06
+Top20/14 2.88 8.79 16.14
+Total running time: 4.691932104
+dfb_APDM.txt
+Top5/1 2.29 7.0 10.46
+Top10/6 3.2 8.83 9.52
+Top15/10 2.76 7.5 9.49
+Top20/15 2.64 7.27 9.58
+Total running time: 3.161880156
+dfb_APDM.txt
+Top5/3 2.35 7.0 7.03
+Top10/8 2.73 6.75 6.64
+Top15/13 2.95 6.92 10.91
+Top20/17 2.84 7.06 10.6
+Total running time: 2.197562134
+dfb_APDM.txt
+Top5/5 2.82 8.0 17.58
+Top10/10 2.65 7.6 12.96
+Top15/15 2.43 7.0 12.66
+Top20/20 2.46 7.35 13.12
+Total running time: 2.105486946
+dfb_APDM.txt
+Top5/3 2.52 8.0 11.63
+Top10/6 2.26 6.83 12.26
+Top15/10 2.19 6.8 15.65
+Top20/14 2.47 7.5 14.0
+Total running time: 2.083485473
+dfb_APDM.txt
+Top5/5 3.57 9.8 12.61
+Top10/10 2.77 7.6 10.37
+Top15/14 2.88 7.64 9.93
+Top20/19 2.85 7.68 11.95
+Total running time: 2.0758634
+dfb_APDM.txt
+Top5/4 2.54 8.25 11.87
+Top10/8 2.57 8.13 11.03
+Top15/11 2.54 7.36 10.38
+Top20/14 2.35 7.14 12.69
+Total running time: 2.277024288
+dfb_APDM.txt
+Top5/5 2.29 5.8 8.4
+Top10/9 2.45 6.56 9.3
+Top15/14 2.44 6.79 10.74
+Top20/17 2.68 7.06 12.68
+Total running time: 2.048542704
+dfb_APDM.txt
+Top5/4 2.79 6.5 6.33
+Top10/9 2.61 6.67 9.6
+Top15/13 2.49 6.31 9.97
+Top20/18 2.53 6.11 9.91
+Total running time: 2.450796547
+dfb_APDM.txt
+Top5/5 3.21 9.6 14.66
+Top10/8 2.88 8.25 17.03
+Top15/13 2.83 7.69 17.68
+Top20/17 2.77 7.41 15.68
+Total running time: 2.127317564
+dfb_APDM.txt
+Top5/5 3.07 8.4 6.89
+Top10/9 2.69 8.56 9.37
+Top15/13 3.12 9.08 8.63
+Top20/18 3.05 8.56 9.48
+Total running time: 2.188158197
+dfb_APDM.txt
+Top5/5 3.02 7.4 10.54
+Top10/9 2.86 7.0 9.12
+Top15/14 2.89 6.79 9.48
+Top20/18 2.92 7.22 9.87
+Total running time: 1.872702375
+dfb_APDM.txt
+Top5/3 3.27 7.67 7.72
+Top10/7 3.67 9.29 7.15
+Top15/10 3.68 9.3 9.32
+Top20/15 3.06 7.4 6.21
+Total running time: 2.060540142
+dfb_APDM.txt
+Top5/5 2.87 9.0 10.77
+Top10/10 2.62 7.4 11.73
+Top15/15 2.46 6.87 11.87
+Top20/20 2.49 7.15 14.04
+Total running time: 2.244741019
+dfb_APDM.txt
+Top5/5 2.9 9.6 10.64
+Top10/8 2.48 7.25 8.81
+Top15/12 2.39 7.58 10.47
+Top20/16 2.34 7.13 10.36
+Total running time: 2.308284313
+dfb_APDM.txt
+Top5/5 2.9 10.2 7.82
+Top10/9 3.16 9.33 9.1
+Top15/11 2.92 8.45 8.42
+Top20/16 2.82 8.19 9.35
+Total running time: 1.664107029
+dfb_APDM.txt
+Top5/3 3.27 10.33 5.57
+Top10/3 3.27 10.33 5.57
+Top15/7 3.02 8.57 6.65
+Top20/8 2.77 7.75 6.34
+Total running time: 2.504801376
+dfb_APDM.txt
+Top5/4 2.91 8.5 9.67
+Top10/9 2.95 8.44 7.75
+Top15/14 2.9 7.5 9.44
+Top20/16 2.78 7.31 8.62
+Total running time: 2.175469299
+dfb_APDM.txt
+Top5/5 3.47 9.6 11.66
+Top10/9 2.92 7.78 9.98
+Top15/13 2.79 7.38 9.82
+Top20/17 2.63 6.71 11.34
+Total running time: 2.097218825
+dfb_APDM.txt
+Top5/0 0.0 0.0 0.0
+Top10/0 0.0 0.0 0.0
+Top15/2 4.66 17.5 9.07
+Top20/5 5.24 16.2 12.22
+Total running time: 2.33794986
+dfb_APDM.txt
+Top5/5 6.89 26.6 11.0
+Top10/10 6.72 24.3 11.17
+Top15/15 7.23 26.2 13.27
+Top20/20 7.18 26.1 15.03
+Total running time: 1.449309293
+dfb_APDM.txt
+Top5/3 4.05 17.33 8.31
+Top10/8 4.3 15.38 10.86
+Top15/10 4.33 15.8 11.41
+Top20/15 4.74 16.4 12.36
+Total running time: 2.022816362
+dfb_APDM.txt
+Top5/0 0.0 0.0 0.0
+Top10/0 0.0 0.0 0.0
+Top15/0 0.0 0.0 0.0
+Top20/1 4.13 15.0 12.78
+Total running time: 2.039558069
+dfb_APDM.txt
+Top5/1 3.71 21.0 20.04
+Top10/3 4.04 17.67 11.2
+Top15/8 4.85 16.0 8.13
+Top20/13 4.01 14.31 11.67
+Total running time: 2.196518977
+dfb_APDM.txt
+Top5/0 0.0 0.0 0.0
+Top10/3 4.11 17.33 15.06
+Top15/8 3.46 13.38 14.1
+Top20/11 3.16 11.09 11.67
+Total running time: 1.967289332
+dfb_APDM.txt
+Top5/1 3.88 17.0 4.85
+Top10/1 3.88 17.0 4.85
+Top15/4 3.75 13.25 6.9
+Top20/9 3.39 11.22 10.88
+Total running time: 2.144385155
+dfb_APDM.txt
+Top5/1 4.67 18.0 6.77
+Top10/4 4.51 16.25 6.57
+Top15/9 4.58 14.56 10.77
+Top20/14 4.76 14.5 12.14
+Total running time: 1.913542523
+dfb_APDM.txt
+Top5/1 3.88 17.0 4.85
+Top10/4 3.4 15.25 8.61
+Top15/9 3.62 14.11 10.01
+Top20/13 4.19 14.08 8.56
+Total running time: 2.06933381
+imdb_APDM.txt
+Top5/5 2.2 12.2 16.5
+Top10/7 2.22 14.43 17.53
+Top15/11 2.26 16.18 17.89
+Top20/16 2.19 15.88 18.87
+Total running time: 37.994678289
+imdb_APDM.txt
+Top5/5 2.27 16.2 17.63
+Top10/9 2.02 13.33 19.94
+Top15/14 1.93 11.93 18.84
+Top20/19 1.91 11.0 19.4
+Total running time: 38.401104436
+imdb_APDM.txt
+Top5/5 1.92 6.6 19.55
+Top10/9 1.92 7.78 20.2
+Top15/14 2.01 8.57 20.91
+Top20/19 2.07 9.16 21.14
+Total running time: 42.074233873
+imdb_APDM.txt
+Top5/4 2.08 12.0 16.21
+Top10/8 2.12 14.38 20.58
+Top15/11 2.16 15.36 20.75
+Top20/16 2.2 15.94 19.48
+Total running time: 38.728042518
+imdb_APDM.txt
+Top5/4 2.08 12.0 16.21
+Top10/8 2.15 14.88 20.26
+Top15/12 2.17 14.83 21.29
+Top20/17 2.18 15.0 20.27
+Total running time: 38.927572945
+imdb_APDM.txt
+imdb_APDM.txt
+imdb_APDM.txt
+imdb_APDM.txt
+Top5/5 2.15 9.6 19.7
+Top10/10 2.03 10.0 23.36
+Top15/15 2.05 9.73 22.22
+Top20/20 2.03 9.5 21.62
+Total running time: 39.458012997
+=======
+Top5/5 2.2 7.6 14.112592359778688
+Top10/10 2.4623809523809523 9.6 20.936814204228174
+Top15/15 2.466161616161616 8.666666666666666 18.040885970863577
+Top20/20 2.462979797979798 9.9 23.619318343877367
+Total running time: 416.285973235
+genes_APDM.txt
+Top5/5 1.7236363636363634 5.8 0.3748035697641122
+Top10/10 1.7147619047619045 6.0 1.017997213198155
+Top15/13 1.509090909090909 3.6923076923076925 0.4185214674342541
+Top20/17 1.415032679738562 3.8823529411764706 0.5506497788860442
+Total running time: 7289.414117674
+imdb_APDM.txt
+Top5/5 1.9166666666666665 10.0 19.521824090393693
+Top10/10 2.175959595959596 9.8 19.49242118434785
+Top15/15 2.045185185185185 9.2 19.863625652485656
+Top20/20 1.9755627705627705 10.1 18.732391890733375
+Total running time: 905.580008613
+dfb_APDM.txt
+Top5/5 3.048888888888889 10.0 10.00844206969697
+Top10/9 2.408008658008658 7.333333333333333 18.887283771462116
+Top15/8 2.528373015873016 7.75 10.491396825275647
+Top20/14 2.6689909297052155 7.857142857142857 17.233289538584817
+Total running time: 25.904901511
+arxivSmall_APDM.txt
+Top5/5 2.2666666666666666 6.6 19.740873709348445
+Top10/10 2.0073232323232326 8.9 22.772752083043308
+Top15/15 2.0627705627705626 8.4 25.158336176746282
+
+
+========================2017/06/01 23:50:01=============================
+
+
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-12.47361332794806
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-11.647412366096736
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_2.txt k=30 s=5 1.00 0.07 0.40 0.40 FunVal=-12.79657460129
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_3.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-14.287784401580174
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_4.txt k=30 s=5 0.04 0.03 0.00 0.00 FunVal=-45.324969159958485
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_0.txt k=30 s=5 0.33 0.03 0.00 0.00 FunVal=-15.477744165206333
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-10.888259475097396
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_2.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-10.2073226306354
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-14.9369697168912
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_4.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-10.040250111939608
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-13.226576175283
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_1.txt k=30 s=5 0.00 0.00 0.50 0.20 FunVal=-59.748993835915144
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_2.txt k=30 s=5 0.00 0.00 0.60 0.60 FunVal=-4.073208602327
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_3.txt k=30 s=5 0.18 0.27 1.00 0.20 FunVal=-136.16901873382704
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-16.50306257699381
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-10.321449775745567
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_1.txt k=30 s=5 0.33 0.03 0.00 0.00 FunVal=-9.987180184408194
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_2.txt k=30 s=5 0.00 0.00 0.40 0.40 FunVal=-6.967278048858001
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_3.txt k=30 s=5 0.02 0.03 1.00 0.20 FunVal=-128.653183997739
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-17.663422258477002
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_0.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-15.01708647659183
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-6.346986639375691
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_2.txt k=30 s=5 0.00 0.00 0.25 0.20 FunVal=-22.307430028921
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-14.719960317608658
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_4.txt k=30 s=5 0.02 0.03 0.00 0.00 FunVal=-137.0323486961493
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_0.txt k=30 s=5 0.00 0.00 0.40 0.40 FunVal=-12.500043524839999
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_1.txt k=30 s=5 0.11 0.20 0.00 0.00 FunVal=-133.5668033943166
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_2.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-14.048385335091286
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_3.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-3.923547598483
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_4.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-18.468285565271003
+
+
+========================2017/06/02 00:15:55=============================
+
+
+
+==============VaryingNumOfAttributes_APDM_Dense_subgraph=================
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.21,0.44,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.28,0.44,   0.00,0.00
+Y recall (mean, std): 		0.12,0.18,   0.00,0.00
+
+==============VaryingNumOfAttributes_APDM_Dense_subgraph=================
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.15,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingNumOfAttributes_APDM_Dense_subgraph=================
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.08,   0.00,0.00
+X recall (mean, std): 		0.05,0.12,   0.00,0.00
+Y precision (mean, std): 	0.42,0.43,   0.50,0.50
+Y recall (mean, std): 		0.20,0.24,   0.20,0.20
+
+==============VaryingNumOfAttributes_APDM_Dense_subgraph=================
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.15,   0.00,0.00
+X recall (mean, std): 		0.01,0.02,   0.00,0.00
+Y precision (mean, std): 	0.28,0.44,   0.00,0.00
+Y recall (mean, std): 		0.12,0.18,   0.00,0.00
+
+==============VaryingNumOfAttributes_APDM_Dense_subgraph=================
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.01,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.25,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingNumOfAttributes_APDM_Dense_subgraph=================
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.05,   0.00,0.00
+X recall (mean, std): 		0.04,0.09,   0.00,0.00
+Y precision (mean, std): 	0.52,0.46,   0.40,0.40
+Y recall (mean, std): 		0.20,0.14,   0.20,0.00
+
+
+========================2017/06/02 00:22:41=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.21,0.44,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.28,0.44,   0.00,0.00
+Y recall (mean, std): 		0.12,0.18,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.15,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.08,   0.00,0.00
+X recall (mean, std): 		0.05,0.12,   0.00,0.00
+Y precision (mean, std): 	0.42,0.43,   0.50,0.50
+Y recall (mean, std): 		0.20,0.24,   0.20,0.20
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.15,   0.00,0.00
+X recall (mean, std): 		0.01,0.02,   0.00,0.00
+Y precision (mean, std): 	0.28,0.44,   0.00,0.00
+Y recall (mean, std): 		0.12,0.18,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.01,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.25,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.05,   0.00,0.00
+X recall (mean, std): 		0.04,0.09,   0.00,0.00
+Y precision (mean, std): 	0.52,0.46,   0.40,0.40
+Y recall (mean, std): 		0.20,0.14,   0.20,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 1.00 0.23 1.00 1.00 FunVal=-28.169409829390013
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 1.00 1.00 1.00 0.80 FunVal=-88.86575013691666
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 1.00 1.00 1.00 1.00 FunVal=-89.96012311884533
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 1.00 1.00 1.00 1.00 FunVal=-90.13900187972533
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=30 s=5 0.97 0.97 1.00 0.40 FunVal=-84.88582712437068
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_0.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-17.444518569004
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_1.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-10.768315122993286
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_2.txt k=30 s=5 1.00 0.03 0.20 0.20 FunVal=-4.276217960778999
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-57.9862410680002
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-59.557702709135164
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_0.txt k=30 s=5 0.00 0.00 0.50 0.20 FunVal=-17.42538016054069
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_1.txt k=30 s=5 0.67 0.07 0.20 0.20 FunVal=-19.385298905743
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_2.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-9.704067575911
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_3.txt k=30 s=5 0.04 0.07 1.00 0.20 FunVal=-142.6711567156986
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_4.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-8.332812322399
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_0.txt k=30 s=5 0.12 0.07 0.50 0.20 FunVal=-36.983547434396165
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_1.txt k=30 s=5 0.04 0.03 0.50 0.20 FunVal=-49.771134402567505
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_2.txt k=30 s=5 0.50 0.03 0.20 0.20 FunVal=-16.378826403036
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_3.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-10.131531364074865
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-40.57685138687539
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_0.txt k=30 s=5 0.14 0.07 0.50 0.20 FunVal=-59.72471701076829
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-14.998368311933895
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_2.txt k=30 s=5 0.10 0.07 0.00 0.00 FunVal=-66.80294241564548
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-13.155542453133261
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_4.txt k=30 s=5 0.14 0.13 0.00 0.00 FunVal=-54.7899494006634
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-10.491725615880977
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_1.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-4.483376732242
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-15.00105984266986
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_3.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-7.135296080526434
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-14.928300263397857
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_0.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-11.952059356755775
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-15.079268658856
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-19.1706568231135
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-12.79870304663966
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_4.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-1.9686510502110002
+
+
+========================2017/06/02 00:54:59=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.20,0.45,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.44,0.52,   0.20,0.20
+Y recall (mean, std): 		0.12,0.11,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.14,0.29,   0.00,0.00
+X recall (mean, std): 		0.03,0.04,   0.00,0.00
+Y precision (mean, std): 	0.42,0.35,   0.20,0.00
+Y recall (mean, std): 		0.20,0.00,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.13,0.21,   0.04,0.04
+X recall (mean, std): 		0.03,0.03,   0.03,0.03
+Y precision (mean, std): 	0.44,0.38,   0.50,0.30
+Y recall (mean, std): 		0.16,0.09,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.08,0.07,   0.10,0.05
+X recall (mean, std): 		0.05,0.06,   0.07,0.07
+Y precision (mean, std): 	0.10,0.22,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.00,   0.00,0.00
+X recall (mean, std): 		0.00,0.00,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.00,   0.00,0.00
+X recall (mean, std): 		0.00,0.00,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+
+========================2017/06/02 00:55:55=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.99,0.01,   1.00,0.00
+X recall (mean, std): 		0.84,0.34,   1.00,0.00
+Y precision (mean, std): 	1.00,0.00,   1.00,0.00
+Y recall (mean, std): 		0.84,0.26,   1.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.08,0.07,   0.10,0.05
+X recall (mean, std): 		0.05,0.06,   0.07,0.07
+Y precision (mean, std): 	0.10,0.22,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.14,0.29,   0.00,0.00
+X recall (mean, std): 		0.03,0.04,   0.00,0.00
+Y precision (mean, std): 	0.42,0.35,   0.20,0.00
+Y recall (mean, std): 		0.20,0.00,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.13,0.21,   0.04,0.04
+X recall (mean, std): 		0.03,0.03,   0.03,0.03
+Y precision (mean, std): 	0.44,0.38,   0.50,0.30
+Y recall (mean, std): 		0.16,0.09,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.08,0.07,   0.10,0.05
+X recall (mean, std): 		0.05,0.06,   0.07,0.07
+Y precision (mean, std): 	0.10,0.22,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.00,   0.00,0.00
+X recall (mean, std): 		0.00,0.00,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.00,   0.00,0.00
+X recall (mean, std): 		0.00,0.00,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+
+========================2017/06/02 00:56:45=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.99,0.01,   1.00,0.00
+X recall (mean, std): 		0.84,0.34,   1.00,0.00
+Y precision (mean, std): 	1.00,0.00,   1.00,0.00
+Y recall (mean, std): 		0.84,0.26,   1.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.20,0.45,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.44,0.52,   0.20,0.20
+Y recall (mean, std): 		0.12,0.11,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.14,0.29,   0.00,0.00
+X recall (mean, std): 		0.03,0.04,   0.00,0.00
+Y precision (mean, std): 	0.42,0.35,   0.20,0.00
+Y recall (mean, std): 		0.20,0.00,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.13,0.21,   0.04,0.04
+X recall (mean, std): 		0.03,0.03,   0.03,0.03
+Y precision (mean, std): 	0.44,0.38,   0.50,0.30
+Y recall (mean, std): 		0.16,0.09,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.08,0.07,   0.10,0.05
+X recall (mean, std): 		0.05,0.06,   0.07,0.07
+Y precision (mean, std): 	0.10,0.22,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.00,   0.00,0.00
+X recall (mean, std): 		0.00,0.00,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.00,   0.00,0.00
+X recall (mean, std): 		0.00,0.00,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-8.250332995646
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 0.00 0.00 0.40 0.40 FunVal=-6.287298112036
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 0.13 0.20 0.20 0.20 FunVal=-183.44405955819298
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 0.00 0.00 0.40 0.40 FunVal=-193.6933831205382
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-1.653399280499
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-10.746640050646
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-10.650438641875
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_2.txt k=30 s=5 0.08 0.17 0.20 0.20 FunVal=-262.6630517772608
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-11.474197561614
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-4.553964177785
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_0.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-3.9461793155819995
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_1.txt k=30 s=5 0.00 0.00 0.40 0.40 FunVal=-57.33826569081984
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_2.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-6.469767287783
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-7.023363745635
+<<<<<<< HEAD
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_4.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-6.228552115342
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-10.438797956985999
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_1.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-4.691181300856
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-4.987265765698
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_3.txt k=30 s=5 0.15 0.37 0.00 0.00 FunVal=-168.6096914025486
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_4.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-8.859114807178
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_0.txt k=30 s=5 1.00 0.37 0.60 0.60 FunVal=-536.9343776217682
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_1.txt k=30 s=5 0.16 0.33 0.00 0.00 FunVal=-72.61649650656413
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_2.txt k=30 s=5 1.00 0.33 0.20 0.20 FunVal=-337.8297505926699
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_3.txt k=30 s=5 0.20 0.43 0.60 0.60 FunVal=-417.866976905813
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_4.txt k=30 s=5 1.00 0.17 0.60 0.60 FunVal=-308.7754075133824
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_0.txt k=30 s=5 0.86 0.20 0.20 0.20 FunVal=-385.9359058373218
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_1.txt k=30 s=5 1.00 0.23 0.20 0.20 FunVal=-1239.6801222577644
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_2.txt k=30 s=5 0.88 0.23 0.00 0.00 FunVal=-16.11717221352629
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_3.txt k=30 s=5 0.86 0.20 0.40 0.40 FunVal=-231.305548594939
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_4.txt k=30 s=5 1.00 0.40 0.60 0.60 FunVal=-1730.858729268895
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_0.txt k=30 s=5 0.78 0.23 0.40 0.40 FunVal=-2858.786436183152
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_1.txt k=30 s=5 1.00 0.40 0.20 0.20 FunVal=-2235.695246434744
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_2.txt k=30 s=5 0.86 0.20 0.20 0.20 FunVal=-461.35574936084316
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_3.txt k=30 s=5 0.78 0.23 0.20 0.20 FunVal=-414.1915416648432
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_4.txt k=30 s=5 0.86 0.20 0.40 0.40 FunVal=-835.920473663908
+
+
+========================2017/06/02 11:02:04=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.03,0.06,   0.00,0.00
+X recall (mean, std): 		0.04,0.09,   0.00,0.00
+Y precision (mean, std): 	0.24,0.17,   0.20,0.20
+Y recall (mean, std): 		0.24,0.17,   0.20,0.20
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.03,0.07,   0.00,0.00
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.00,0.00,   0.00,0.00
+X recall (mean, std): 		0.00,0.00,   0.00,0.00
+Y precision (mean, std): 	0.20,0.14,   0.20,0.00
+Y recall (mean, std): 		0.20,0.14,   0.20,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.03,0.07,   0.00,0.00
+X recall (mean, std): 		0.07,0.16,   0.00,0.00
+Y precision (mean, std): 	0.08,0.11,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.67,0.45,   1.00,0.00
+X recall (mean, std): 		0.33,0.10,   0.33,0.03
+Y precision (mean, std): 	0.40,0.28,   0.60,0.00
+Y recall (mean, std): 		0.40,0.28,   0.60,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.92,0.08,   0.88,0.02
+X recall (mean, std): 		0.25,0.08,   0.23,0.03
+Y precision (mean, std): 	0.28,0.23,   0.20,0.20
+Y recall (mean, std): 		0.28,0.23,   0.20,0.20
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.85,0.09,   0.86,0.08
+X recall (mean, std): 		0.25,0.08,   0.23,0.03
+Y precision (mean, std): 	0.28,0.11,   0.20,0.00
+Y recall (mean, std): 		0.28,0.11,   0.20,0.00
+=======
+>>>>>>> 5983ba85c4be2b015ea338ea7da0d7b256d8e0f7
+>>>>>>> 0e1fa4ba8928d23ddf4e5a8e6dd11aa828f20937
+imdb_APDM.txt
+dblp_APDM.txt
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.02 0.03 0.20 0.20 FunVal=-1.362542908519622E9
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=24 s=5 0.05 0.10 0.20 0.20 FunVal=-1.2707384129126098E9
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=24 s=5 0.02 0.03 0.20 0.20 FunVal=-1.2233734148603232E9
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 0.04 0.07 0.00 0.00 FunVal=-1.3311881617564259E9
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=21 s=5 0.00 0.00 0.00 0.00 FunVal=-1.0958306621880052E9
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=21 s=5 0.03 0.03 0.20 0.20 FunVal=-8848511.244313924
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=18 s=5 0.06 0.07 0.20 0.20 FunVal=-8363010.049551268
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=24 s=5 0.02 0.03 0.20 0.20 FunVal=-1033407.2049378395
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.02 0.03 0.20 0.20 FunVal=-1176666.7387670248
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=24 s=5 0.03 0.03 0.20 0.20 FunVal=-758051.2082306804
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-863232.5781754607
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.02 0.03 0.20 0.20 FunVal=-1176666.7387670248
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.04 0.07 0.00 0.00 FunVal=-44836.26178911896
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.04 0.07 0.00 0.00 FunVal=-44836.26178911896
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-492.216288658704
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-8084.086320796666
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 0.03 0.07 0.00 0.00 FunVal=-52612.08522399731
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=30 s=5 0.03 0.07 0.00 0.00 FunVal=-43904.77369124749
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_0.txt k=30 s=5 0.00 0.00 0.25 0.20 FunVal=-51905.60159428762
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-856.853775751592
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-764.859424712464
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_3.txt k=30 s=5 0.08 0.03 0.00 0.00 FunVal=-7905.605314643697
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-587.673497352484
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1461.2758361666722
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-39909.704237556274
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_2.txt k=30 s=5 0.07 0.10 0.00 0.00 FunVal=-34497.773728780965
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-707.661402832836
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_4.txt k=30 s=5 0.00 0.00 0.50 0.20 FunVal=-52597.85979890917
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-430.04564820176404
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_1.txt k=30 s=5 0.05 0.03 0.00 0.00 FunVal=-13953.933660518007
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-12274.621244570548
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-25629.48265528689
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1889.6525264922625
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1259.767275903261
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_1.txt k=30 s=5 0.11 0.03 0.00 0.00 FunVal=-4305.201696941687
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-803.808629607361
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-39253.178738526425
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-36007.235561063695
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-534.5325504015999
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_1.txt k=30 s=5 0.04 0.10 0.00 0.00 FunVal=-54384.272601848854
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-798.850982658304
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-26309.926501702586
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1062.2415571058718
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_0.txt k=30 s=5 0.02 0.03 0.00 0.00 FunVal=-42174.01943191783
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-662.202712440413
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_2.txt k=30 s=5 0.05 0.07 0.00 0.00 FunVal=-32046.379502517826
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_3.txt k=30 s=5 0.03 0.07 0.00 0.00 FunVal=-43630.57491722587
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_4.txt k=30 s=5 0.05 0.10 0.00 0.00 FunVal=-58649.0819214813
+
+
+========================2017/06/04 10:59:12=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.02,   0.03,0.01
+X recall (mean, std): 		0.04,0.04,   0.07,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.03,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.05,0.11,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.03,   0.00,0.00
+X recall (mean, std): 		0.02,0.04,   0.00,0.00
+Y precision (mean, std): 	0.10,0.22,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.05,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.04,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.03,0.02,   0.03,0.01
+X recall (mean, std): 		0.05,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1526.7799871643113
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-486.38052594115004
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1884.616919991478
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 0.48 1.00 1.00 0.20 FunVal=-4811.940694595289
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1060.01277284945
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1526.7799871643113
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-486.38052594115004
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1884.616919991478
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=34646.40953834666
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 0.48 1.00 1.00 0.20 FunVal=-4811.940694595289
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_1.txt k=30 s=5 0.02 0.03 0.00 0.00 FunVal=-4343.295072254049
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_2.txt k=30 s=5 0.42 1.00 1.00 0.20 FunVal=-5667.71099132886
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1060.01277284945
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_3.txt k=30 s=5 0.05 0.10 0.00 0.00 FunVal=-8473.455817760963
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_4.txt k=30 s=5 0.44 1.00 1.00 0.20 FunVal=-4437.116083429285
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_0.txt k=30 s=5 0.07 0.03 0.00 0.00 FunVal=-1181.0844310722694
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=34646.40953834666
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-491.923255911649
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_1.txt k=30 s=5 0.02 0.03 0.00 0.00 FunVal=-4343.295072254049
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_2.txt k=30 s=5 0.07 0.13 0.00 0.00 FunVal=-7610.31573869577
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_2.txt k=30 s=5 0.42 1.00 1.00 0.20 FunVal=-5667.71099132886
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_3.txt k=30 s=5 0.05 0.10 0.00 0.00 FunVal=-8473.455817760963
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_4.txt k=30 s=5 0.44 1.00 1.00 0.20 FunVal=-4437.116083429285
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_3.txt k=30 s=5 0.04 0.10 0.00 0.00 FunVal=-23451.385685873312
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=258.8869344961149
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_0.txt k=30 s=5 0.07 0.03 0.00 0.00 FunVal=-1181.0844310722694
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-5225.149175742314
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-482.9251054602489
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_2.txt k=30 s=5 0.04 0.07 0.00 0.00 FunVal=-6216.892359421198
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-491.923255911649
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_2.txt k=30 s=5 0.07 0.13 0.00 0.00 FunVal=-7610.31573869577
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_3.txt k=30 s=5 0.04 0.10 0.00 0.00 FunVal=-23451.385685873312
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_3.txt k=30 s=5 0.03 0.03 0.00 0.00 FunVal=-14712.148126298931
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=258.8869344961149
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-753.5409393061221
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-5225.149175742314
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-482.9251054602489
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_0.txt k=30 s=5 0.18 0.07 0.00 0.00 FunVal=-2378.307427719802
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_2.txt k=30 s=5 0.04 0.07 0.00 0.00 FunVal=-6216.892359421198
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_1.txt k=30 s=5 0.05 0.10 0.00 0.00 FunVal=-9154.983127446365
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_3.txt k=30 s=5 0.03 0.03 0.00 0.00 FunVal=-14712.148126298931
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_2.txt k=30 s=5 0.05 0.10 0.00 0.00 FunVal=-12631.980290642989
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-753.5409393061221
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_3.txt k=30 s=5 1.00 0.03 0.00 0.00 FunVal=-0.487291951969
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_0.txt k=30 s=5 0.18 0.07 0.00 0.00 FunVal=-2378.307427719802
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-594.548098589449
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_1.txt k=30 s=5 0.05 0.10 0.00 0.00 FunVal=-9154.983127446365
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_2.txt k=30 s=5 0.05 0.10 0.00 0.00 FunVal=-12631.980290642989
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_3.txt k=30 s=5 1.00 0.03 0.00 0.00 FunVal=-0.487291951969
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=29981.50816019602
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-108.05741855589996
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_2.txt k=30 s=5 0.09 0.03 0.00 0.00 FunVal=-719.3511272626967
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-594.548098589449
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-652.653551997225
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=29981.50816019602
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-287.51139585792106
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_0.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-1899.138452263186
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-108.05741855589996
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_2.txt k=30 s=5 0.09 0.03 0.00 0.00 FunVal=-719.3511272626967
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_1.txt k=30 s=5 0.17 0.10 0.00 0.00 FunVal=-6063.794933687218
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_3.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-652.653551997225
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_2.txt k=30 s=5 0.04 0.10 0.00 0.00 FunVal=-17089.79381438846
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_3.txt k=30 s=5 0.10 0.03 0.00 0.00 FunVal=-544.7913862919996
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-287.51139585792106
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_0.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-1899.138452263186
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_4.txt k=30 s=5 0.02 0.03 0.00 0.00 FunVal=-7674.447065678037
+
+
+========================2017/06/04 11:10:39=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_1.txt k=30 s=5 0.17 0.10 0.00 0.00 FunVal=-6063.794933687218
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_2.txt k=30 s=5 0.04 0.10 0.00 0.00 FunVal=-17089.79381438846
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_3.txt k=30 s=5 0.10 0.03 0.00 0.00 FunVal=-544.7913862919996
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_4.txt k=30 s=5 0.02 0.03 0.00 0.00 FunVal=-7674.447065678037
+
+
+========================2017/06/04 11:11:10=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1526.7799871643113
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1526.7799871643113
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-486.38052594115004
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1884.616919991478
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 0.48 1.00 1.00 0.20 FunVal=-4811.940694595289
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1060.01277284945
+
+
+========================2017/06/04 11:20:37=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1526.7799871643113
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-486.38052594115004
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_2.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1884.616919991478
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_3.txt k=30 s=5 0.48 1.00 1.00 0.20 FunVal=-4811.940694595289
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_4.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-1060.01277284945
+
+
+========================2017/06/04 11:22:09=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-950.674813990225
+
+
+========================2017/06/04 11:22:52=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-950.674813990225
+
+
+========================2017/06/04 11:23:12=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-950.674813990225
+
+
+========================2017/06/04 11:25:20=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-950.674813990225
+
+
+========================2017/06/04 11:27:45=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.20,0.45,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-1850.520605494056
+
+
+========================2017/06/04 11:28:41=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-1850.520605494056
+
+
+========================2017/06/04 11:29:28=============================
+
+
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.0316
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.10,0.21,   0.00,0.00
+X recall (mean, std): 		0.20,0.45,   0.00,0.00
+Y precision (mean, std): 	0.24,0.43,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================0.5
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.19,0.22,   0.05,0.05
+X recall (mean, std): 		0.43,0.52,   0.10,0.10
+Y precision (mean, std): 	0.40,0.55,   0.00,0.00
+Y recall (mean, std): 		0.08,0.11,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================1.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.04,0.03,   0.04,0.03
+X recall (mean, std): 		0.05,0.06,   0.03,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================3.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.01,0.02,   0.00,0.00
+X recall (mean, std): 		0.02,0.03,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================5.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.26,0.42,   0.05,0.05
+X recall (mean, std): 		0.06,0.04,   0.07,0.03
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================7.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.02,0.04,   0.00,0.00
+X recall (mean, std): 		0.01,0.01,   0.00,0.00
+Y precision (mean, std): 	0.00,0.00,   0.00,0.00
+Y recall (mean, std): 		0.00,0.00,   0.00,0.00
+
+==============VaryingSigma_APDM_Dense_subgraph=================10.0
+
+(P, s, k, kk): (20, 5, 30, 20). #instances: 5
+X precision (mean, std): 	0.07,0.07,   0.04,0.04
+X recall (mean, std): 		0.05,0.04,   0.03,0.03
+Y precision (mean, std): 	0.04,0.09,   0.00,0.00
+Y recall (mean, std): 		0.04,0.09,   0.00,0.00
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.03 0.07 0.20 0.20 FunVal=-169633.17660858962
+dblp_norm_APDM.txt
+dblp_norm_APDM.txt
+Top5/5 4.12 5.2 0.0
+Top10/10 3.96 5.0 0.0
+Top15/15 4.17 5.2 0.02
+Top20/20 3.88 5.25 0.03
+Total running time: 811.413480171
+dfb_norm_APDM.txt
+dfb_norm_APDM.txt
+Top5/5 8.29 9.4 0.12
+Top10/10 8.74 9.8 0.12
+Top15/15 8.54 9.6 0.1
+Top20/20 8.54 9.6 0.1
+Total running time: 8.849224003
+imdb_norm_APDM.txt
+Top5/5 3.12 4.4 0.04
+Top10/9 3.29 4.44 0.02
+Top15/14 3.23 4.57 0.17
+Top20/19 3.22 4.58 0.14
+Total running time: 224.65029185
+imdb_norm_APDM.txt
+Top5/5 3.12 4.4 0.04
+Top10/10 3.26 4.4 0.04
+Top15/15 3.34 4.53 0.08
+Top20/20 3.35 4.55 0.06
+Total running time: 794.44909666
+imdb_norm_APDM.txt
+imdb_norm_APDM.txt
+Top5/5 3.12 4.4 0.04
+Top10/10 2.73 4.2 0.3
+Top15/15 2.73 4.4 0.31
+Top20/20 2.9 4.6 0.24
+Total running time: 386.852732441
+imdb_norm_APDM.txt
+<<<<<<< HEAD
+Top5/5 3.14 4.4 0.0
+Top10/10 3.2 5.3 0.06
+Top15/15 3.17 4.93 0.04
+Top20/20 3.1 4.75 0.04
+Total running time: 79.698067477
+imdb_norm_APDM.txt
+Top5/5 3.12 4.4 0.04
+Top10/10 3.18 6.1 0.15
+Top15/15 3.52 5.8 0.1
+Top20/20 3.19 5.15 0.12
+Total running time: 408.821476631
+=======
+Top5/5 3.02 4.2 0.04
+Top10/10 3.14 5.2 0.09
+Top15/15 3.48 5.47 0.07
+Top20/20 3.31 6.15 0.16
+Total running time: 44.778464405
+imdb_norm_APDM.txt
+Top5/5 3.02 8.2 0.34
+Top10/10 2.39 7.6 0.36
+Top15/15 2.17 8.73 0.61
+Top20/19 2.08 8.95 0.62
+Total running time: 59.334865484
+imdb_norm_APDM.txt
+Top5/5 3.02 4.2 0.04
+Top10/10 3.15 5.6 0.09
+Top15/15 3.42 5.67 0.07
+Top20/20 3.26 6.3 0.16
+Total running time: 14.047639007
+<<<<<<< HEAD
+>>>>>>> 843d83d825fe102796614f0963af2fe4f81d1151
+=======
+imdb_norm_APDM.txt
+<<<<<<< HEAD
+Top5/5 3.12 4.4 0.04
+Top10/9 3.18 4.33 0.1
+Top15/14 3.35 4.5 0.09
+Top20/19 3.21 4.32 0.11
+Total running time: 98.1835252
+imdb_norm_APDM.txt
+Top5/5 3.02 4.2 0.04
+Top10/10 2.46 3.6 0.37
+Top15/15 2.84 3.93 0.3
+Top20/19 2.72 3.79 0.34
+Total running time: 149.800974331
+imdb_norm_APDM.txt
+imdb_norm_APDM.txt
+imdb_norm_APDM.txt
+Top5/5 3.02 4.2 0.04
+Top10/10 2.64 8.0 0.48
+Top15/15 2.97 8.0 0.37
+Top20/20 3.42 7.65 0.29
+Total running time: 181.469784187
+imdb_norm_APDM.txt
+Top5/5 3.02 4.2 0.04
+Top10/10 2.34 6.1 0.54
+Top15/15 2.64 6.6 0.47
+Top20/20 2.97 6.4 0.36
+Total running time: 54.001854316
+imdb_norm_APDM.txt
+Top5/5 3.12 4.4 0.04
+Top10/10 3.26 4.4 0.04
+Top15/14 2.8 4.79 0.2
+Top20/19 3.38 5.11 0.15
+Total running time: 129.385517189
+imdb_norm_APDM.txt
+Top5/5 3.12 4.4 0.04
+Top10/10 3.26 4.4 0.05
+Top15/15 3.31 5.13 0.12
+Top20/20 3.38 5.0 0.11
+Total running time: 160.882279393
+imdb_norm_APDM.txt
+imdb_norm_APDM.txt
+Top5/5 3.14 4.4 0.0
+Top10/10 3.12 5.2 0.12
+Top15/15 3.13 5.27 0.09
+Top20/20 3.24 5.25 0.1
+Total running time: 25.312394115
+=======
+arxivSmall_norm_APDM.txt
+Top5/5 4.33 5.4 0.02
+Top10/9 3.85 6.22 0.17
+Top15/13 3.82 5.77 0.12
+Top20/18 3.73 5.5 0.09
+Total running time: 51.224566812
+arxivSmall_norm_APDM.txt
+genes_norm_APDM.txt
+Top5/5 2.84 4.4 0.0
+Top10/10 2.49 3.9 0.01
+Top15/15 2.3 4.27 0.01
+Top20/20 2.37 4.15 0.01
+Total running time: 1477.157294714
+>>>>>>> c50ef401255674d289f8d99cb314ed73fdecef3d
+>>>>>>> 360152686ff673f6d23ee042a27f07bd963d3f40
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-17.92491851082089
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_1.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-14.503620420180967
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.0316_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-17.92491851082089
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_0.5_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-15.909621539718104
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_1.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-15.12032693362
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_3.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-13.794287369856079
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_5.0_case_0.txt k=30 s=5 0.00 0.00 0.20 0.20 FunVal=-1.4965719784158575
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_7.0_case_0.txt k=30 s=5 0.00 0.00 1.00 0.20 FunVal=-3.301750924919065
+data/DenseGraph/SimuDataBigSigma/VaryingSigma_APDM_Dense_subgraph_in_0.35_out_0.1_numClusters_20_TrueSGSize_30_FeasNum_20_trueFeasNum_5_sigmas1_10.0_case_0.txt k=30 s=5 0.00 0.00 0.00 0.00 FunVal=-10.016213297350685

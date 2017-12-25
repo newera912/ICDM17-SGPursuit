@@ -1,0 +1,395 @@
+
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+12.0 24.0 Normalzie Cut: 0.5 [719, 720, 721, 722]
+4.0 16.0 Smallest Normalzie Cut: 0.13043478260869565 [317, 718, 758, 759, 760]
+<<<<<<< HEAD
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+66.0 130.0 Normalzie Cut: 0.5076923076923077 [6, 31, 32, 33, 81, 99, 111, 169, 231, 263, 264]
+66.0 130.0 Smallest Normalzie Cut: 0.5076923076923077 [6, 31, 32, 33, 81, 99, 111, 169, 231, 263, 264]
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+66.0 130.0 Normalzie Cut: 0.5076923076923077 [6, 31, 32, 33, 81, 99, 111, 169, 231, 263, 264]
+66.0 130.0 Smallest Normalzie Cut: 0.5076923076923077 [6, 31, 32, 33, 81, 99, 111, 169, 231, 263, 264]
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+66.0 130.0 Normalzie Cut: 0.5076923076923077 [6, 31, 32, 33, 81, 99, 111, 169, 231, 263, 264]
+106.0 144.0 Smallest Normalzie Cut: 0.5076923076923077 [6, 31, 32, 33, 81, 99, 111, 169, 231, 263, 264]
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+12.0 24.0 Normalzie Cut: 0.5 [719, 720, 721, 722]
+4.0 16.0 Smallest Normalzie Cut: 0.13043478260869565 [317, 718, 758, 759, 760]
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/genes.graphml
+No. Nodes=2900 No. Features=115
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/imbd.graphml
+data/DenseGraph/Realdata/imbd.graphml
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imbd.graphml
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/genes.graphml
+No. Nodes=2900 No. Features=115
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/genes.graphml
+No. Nodes=2900 No. Features=115
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/genes.graphml
+No. Nodes=2900 No. Features=115
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/genes.graphml
+No. Nodes=2900 No. Features=115
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dblp.graphml
+No. Nodes=774 No. Features=20
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/genes.graphml
+No. Nodes=2900 No. Features=115
+data/DenseGraph/Realdata/imbd.graphml
+data/DenseGraph/Realdata/imbd.graphml
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+=======
+data/DenseGraph/Realdata/dfb.graphml
+No. Nodes=100 No. Features=5
+247.0 379.0 Normalzie Cut: 0.6517150395778364 [48, 50, 53, 60, 66, 68, 79, 82, 90, 94, 98, 99]
+49.0 61.0 Smallest Normalzie Cut: 0.6517150395778364 [48, 50, 53, 60, 66, 68, 79, 82, 90, 94, 98, 99]
+data/DenseGraph/Realdata/genes.graphml
+No. Nodes=2900 No. Features=115
+128.0 200.0 Normalzie Cut: 0.64 [235, 513, 562, 585, 734, 934, 2162, 2774, 2822]
+15.0 25.0 Smallest Normalzie Cut: 0.1111111111111111 [573, 591, 1583, 2434]
+data/DenseGraph/Realdata/imdb.graphml
+No. Nodes=862 No. Features=21
+83.0 103.0 Normalzie Cut: 0.8058252427184466 [50, 189, 658, 685, 785]
+18.0 26.0 Smallest Normalzie Cut: 0.6923076923076923 [114, 311, 328, 445]
+data/DenseGraph/Realdata/arxivSmall.graphml
+No. Nodes=856 No. Features=30
+16.0 36.0 Normalzie Cut: 0.4444444444444444 [9, 201, 259, 307, 644]
+5.0 17.0 Smallest Normalzie Cut: 0.09090909090909091 [222, 369, 468, 667]
+data/DenseGraph/Realdata/patents.graphml
+No. Nodes=100000 No. Features=5
+data/DenseGraph/Realdata/patents.graphml
+No. Nodes=100000 No. Features=5
+data/DenseGraph/Realdata/patents.graphml
+No. Nodes=100000 No. Features=5
+>>>>>>> 82cafc6e49e3bddd41675f60a02c6d2dda199af0

@@ -1,0 +1,6 @@
+mu=100.0 k=30 prec=NaN rec=0.0
+mu=100.0 k=50 prec=1.0 rec=1.0
+mu=100.0 k=50 prec=1.0 rec=0.99
+mu=100.0 k=50 prec=0.0 rec=0.0
+mu=100.0 k=50 prec=0.9900990099009901 rec=1.0
+mu=100.0 k=50 prec=NaN rec=0.0
